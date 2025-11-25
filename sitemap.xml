@@ -9,7 +9,18 @@
 
 <url>
   <loc>https://joabc.com/</loc>
-  <lastmod>2025-06-09T02:46:11+00:00</lastmod>
+  <lastmod>2025-11-23T13:20:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://joabc.com/ai</loc>
+  <lastmod>2025-11-23T13:20:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://joabc.com/dmv</loc>
+  <lastmod>2025-11-23T13:20:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
